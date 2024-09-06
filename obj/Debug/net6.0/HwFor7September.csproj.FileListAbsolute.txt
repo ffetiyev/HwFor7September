@@ -1,0 +1,14 @@
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\bin\Debug\net6.0\HwFor7September.exe
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\bin\Debug\net6.0\HwFor7September.deps.json
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\bin\Debug\net6.0\HwFor7September.runtimeconfig.json
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\bin\Debug\net6.0\HwFor7September.dll
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\bin\Debug\net6.0\HwFor7September.pdb
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\obj\Debug\net6.0\HwFor7September.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\obj\Debug\net6.0\HwFor7September.AssemblyInfoInputs.cache
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\obj\Debug\net6.0\HwFor7September.AssemblyInfo.cs
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\obj\Debug\net6.0\HwFor7September.csproj.CoreCompileInputs.cache
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\obj\Debug\net6.0\HwFor7September.dll
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\obj\Debug\net6.0\refint\HwFor7September.dll
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\obj\Debug\net6.0\HwFor7September.pdb
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\obj\Debug\net6.0\HwFor7September.genruntimeconfig.cache
+C:\Users\ferid\Desktop\HwFor7September\HwFor7September\obj\Debug\net6.0\ref\HwFor7September.dll
